@@ -1,9 +1,9 @@
 # ShortStory
 
-##Demo app featuring JWT token authentication and authorization for .Net 5 web aip project.
-##Demo is a social media site where users can publish posts
+## Demo app featuring JWT token authentication and authorization for .Net 5 web aip project.
+## Demo is a social media site where users can publish posts
 
-##Project Features:
+## Project Features:
 
 > Users registration
 
